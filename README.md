@@ -10,7 +10,8 @@ Want to know more about me? [Check out my portfolio.](https://adorade.ro/)
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![BS](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Pug](https://img.shields.io/badge/Pug-A86454?style=for-the-badge&logo=pug&logoColor=white)
@@ -31,10 +32,10 @@ Want to know more about me? [Check out my portfolio.](https://adorade.ro/)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woo&logoColor=white)
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
 [![Adorade's GitHub stats](https://github-readme-stats.vercel.app/api?username=adorade&show_icons=true&theme=radical)](https://github.com/adorade)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorade&theme=radical&layout=compact)](https://github.com/adorade)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adorade&theme=radical&layout=compact)](https://github.com/adorade) -->
 
 ## 🤝🏻 Connect with Me
 
