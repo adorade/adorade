@@ -44,5 +44,3 @@ Want to know more about me? [Check out my portfolio.](https://adorade.ro/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1da1f2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adorade)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0D76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marian-bolojan/)
 [![Email Badge](https://img.shields.io/badge/mbolojan@yahoo.com-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)](mailto:mbolojan@yahoo.com)
-
-[![Visitor Badge](https://img.shields.io/badge/dynamic/json?color=info&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fadorade.adorade%2Freadme&style=for-the-badge&logo=github)](https://github.com/adorade)
