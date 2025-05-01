@@ -42,3 +42,10 @@ Want to know more about me? [Check out my portfolio.](https://adorade.ro/)
 
 [![Website Badge](https://img.shields.io/badge/adorade.ro-ff5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adorade.ro)
 [![Email Badge](https://img.shields.io/badge/email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:adorade@outlook.com)
+
+## 🏆 GitHub Stats
+![Adorade's GitHub stats](https://github-readme-stats.vercel.app/api?username=adorade&show_icons=true&theme=radical)
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate! 😊
